@@ -312,7 +312,7 @@ function cron_plugins()
 end
 
 -- Start and load values
-our_id = 0
+our_id =@Xx_minister_salib_xX
 now = os.time()
 math.randomseed(now)
 started = false
